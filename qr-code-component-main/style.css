@@ -1,0 +1,26 @@
+body {
+    background-color: #D5E1EF;
+    font-family: 'Open Sans', sans-serif;
+}
+.card {
+    max-width: 257px;
+    text-align: center;
+    background-color: #fff;
+    margin: 7% auto;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+img {
+    width :100%;
+    border-radius: 10px;
+}
+h2 {
+    color: #1D2647;
+    font-size: 18px;
+}
+
+p{
+    color: #A0A3AA;
+    font-size: 80%;
+}
